@@ -60,7 +60,7 @@
 
   <url>
     <loc>https://abraham-liuyuxin.github.io/</loc>
-    <lastmod>2020-09-06</lastmod>
+    <lastmod>2020-09-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -68,35 +68,35 @@
   
   <url>
     <loc>https://abraham-liuyuxin.github.io/tags/%E9%9A%8F%E6%83%B3/</loc>
-    <lastmod>2020-09-06</lastmod>
+    <lastmod>2020-09-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://abraham-liuyuxin.github.io/tags/%E6%84%9F%E6%85%A8/</loc>
-    <lastmod>2020-09-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://abraham-liuyuxin.github.io/tags/%E4%B9%A0%E9%A2%98/</loc>
-    <lastmod>2020-09-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://abraham-liuyuxin.github.io/tags/Java/</loc>
-    <lastmod>2020-09-06</lastmod>
+    <lastmod>2020-09-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://abraham-liuyuxin.github.io/tags/%E7%AE%97%E6%B3%95/</loc>
-    <lastmod>2020-09-06</lastmod>
+    <lastmod>2020-09-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://abraham-liuyuxin.github.io/tags/Java/</loc>
+    <lastmod>2020-09-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://abraham-liuyuxin.github.io/tags/%E4%B9%A0%E9%A2%98/</loc>
+    <lastmod>2020-09-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -105,14 +105,14 @@
   
   <url>
     <loc>https://abraham-liuyuxin.github.io/categories/%E9%97%B2%E8%B0%88/</loc>
-    <lastmod>2020-09-06</lastmod>
+    <lastmod>2020-09-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://abraham-liuyuxin.github.io/categories/%E7%AE%97%E6%B3%95%E7%AC%AC%E5%9B%9B%E7%89%88/</loc>
-    <lastmod>2020-09-06</lastmod>
+    <lastmod>2020-09-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
